@@ -1,4 +1,4 @@
-![Eurovision Network Insights](Eurovision..jpg)
+![Eurovision Network Insights](https://github.com/ruturaj0626/EuroVision-Network-Insights-Unveiling-Connections/blob/main/Eurovision..jpg)
 
 # Eurovision Network Insights: Unveiling Connections
 
