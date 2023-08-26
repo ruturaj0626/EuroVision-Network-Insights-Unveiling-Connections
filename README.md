@@ -1,4 +1,5 @@
 ![Eurovision Network Insights](Eurovision..jpg)
+
 # Eurovision Network Insights: Unveiling Connections
 
 🎶 Welcome to the **Eurovision Network Insights: Unveiling Connections** repository! 🌍🎤
