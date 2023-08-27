@@ -20,7 +20,7 @@ The Eurovision Song Contest isn't just about music; it's about a shared cultural
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using:
    ```
-   git clone https://github.com/your-username/eurovision-network-insights.git
+   git clone https://github.com/ruturaj0626/eurovision-network-insights.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install any necessary dependencies as outlined in `requirements.txt`.
